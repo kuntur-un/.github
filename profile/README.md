@@ -1,4 +1,11 @@
-## Hi there 👋
+## KUNTUR 👋
+Grupo de Investigación No-Oficial de la Universidad Nacional de Colombia 
+
+### ¿Quienes somos?
+Somos un grupo de estudiantes de la facultad de ingeniería, apasionados por la investigación y el desarrollo aeroespacial. Contamos con estudiantes de diversas áreas, con el fin de unir esfuerzos para la construcción de KUNTUR. 
+
+### ¿Qué es KUNTUR?
+El primer Nanosatélite Tipo Cubesat de la UNAL, enfocado a la telemetría de densidades de particulas ionizantes en el primer cinturon de Van Allen. 
 
 <!--
 
